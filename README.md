@@ -25,6 +25,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fakeid30&show_icons=true&theme=dark&locale=en" alt="fakeid30" /></p>
 
+<h3 align="left">Weekly development breakdown:</h3>
+
 <!--START_SECTION:waka-->
 ```text
 Python       5 hrs 40 mins   ███████████████████████▒░   93.76 % 
