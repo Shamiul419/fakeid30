@@ -26,4 +26,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fakeid30&show_icons=true&theme=dark&locale=en" alt="fakeid30" /></p>
 
 <!--START_SECTION:waka-->
+```text
+Python       5 hrs 40 mins   ███████████████████████▒░   93.76 % 
+Markdown     13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
+TOML         8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+```
 <!--END_SECTION:waka-->
