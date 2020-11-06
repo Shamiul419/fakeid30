@@ -25,3 +25,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fakeid30&show_icons=true&theme=dark&locale=en" alt="fakeid30" /></p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
