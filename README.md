@@ -1,7 +1,6 @@
 <h1 align="center">হ্যালো 👋, I'm Junayeed (জুনায়ীদ)</h1>
 <h3 align="center">A python developer and math, natural language and security enthusiast from Bangladesh.</h3>
 
-[![forthebadge](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/not-a-bug-a-feature.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/contains-technical-debt.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-water.svg)](https://forthebadge.com)
